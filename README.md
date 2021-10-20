@@ -28,7 +28,7 @@ When node is viewed, the content should be displayed as specified.
 Usages
 ------
 
-1.Install text+image module, it will provide Example content type and related configuration and Paragraph "Text + Image" (Title, Description, Image, Position, Wrap text) . Paragraph field Reference
-2.Copy the template "paragraph--text-image--example.html.twig" to current theme ( bootstrap4 based/sub theme )
-3.Add the node content as domainname/node/add/example as per attached screenshot-1
-4. Refer the following screenshot 2-4
+#1.Install text+image module, it will provide Example content type and related configuration and Paragraph "Text + Image" (Title, Description, Image, Position, Wrap text) . Paragraph field Reference
+#2.Copy the template "paragraph--text-image--example.html.twig" to current theme ( bootstrap4 based/sub theme )
+#3.Add the node content as domainname/node/add/example as per attached screenshot-1
+#4. Refer the following screenshot 2-4
